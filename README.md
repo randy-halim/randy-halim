@@ -1,7 +1,5 @@
-# hello world ✨
-
 <h3 align="center">Randy Halim</h3>
-<p align="center">CS @ UW, and other shenanigans. :3</p>
+<p align="center">shenanigans that may or may not involve cybersecurity. :3</p>
 
 ---
 
